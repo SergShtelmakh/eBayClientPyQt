@@ -1,0 +1,12 @@
+{
+	"files": [
+		"src/config.py",
+		"src/EbayApiWrapper.py",
+		"src/main.py",
+		"src/Models.py",
+
+		"src/qml/EbayItemDelegate.qml",
+		"src/qml/MainWindow.qml",
+		"src/qml/SearchEbayItemsPage.qml"
+	]
+}
