@@ -1,0 +1,3 @@
+[submodule "ebaysdk-python"]
+	path = ebaysdk-python
+	url = https://github.com/timotheus/ebaysdk-python.git
